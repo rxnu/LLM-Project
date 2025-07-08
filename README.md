@@ -66,7 +66,7 @@ Below is a quick summary of what I actually tried and observed:
 | **Warmup**          | None, 500 steps, 20 % steps | Brief warmup improved early training stability. |
 | **Grad Accum**      | 1, 2             | 2× accumulation smoothed updates (bs=32) on a small GPU.   |32.                     |
 
-## 🔗 Relevant Links
+## Relevant Links
 
 - **My model on Hugging Face**:  
   https://huggingface.co/rxnu/imdb-distilbert-finetuned  
